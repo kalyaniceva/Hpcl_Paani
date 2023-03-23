@@ -17,8 +17,8 @@ class _HpclPaniCountScreenState extends State<HpclPaniCountScreen> {
   final TextEditingController _countController = TextEditingController();
   List<String> items = ['ARTOS', 'KINLEY'];
   String selectVal = 'ARTOS';
-  List<String> quantity = ['500ml', '1 litre', '20litre'];
-  String selectquantity = '1 litre';
+  List<String> quantity = ['500ml', '2 litre', '20litre'];
+  String selectquantity = '2 litre';
   double amount = 0.0;
   double commission = 0.0;
   @override
