@@ -1,0 +1,5 @@
+This Project is designed as a demo app for Hpcl Company.
+
+This app shows the employees HP Outlets by calculating the distance (from where the employee is to the corresponding outlet) and displays them in ascending order.
+It allows the CSA agents to login.
+Agents can calculate the order summary and see their commission amount earned as well.
