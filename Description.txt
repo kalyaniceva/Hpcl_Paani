@@ -1,11 +1,26 @@
-This Project is designed as a demo app for Hpcl Company.
+SourceTree is graphical user interface for Git.It provides visual representation of repositories,branches and commits.
 
-This app shows the employees HP Outlets by calculating the distance (from where the employee is to the corresponding outlet) and displays them in ascending order.
-It allows the CSA agents to login.
-Agents can calculate the order summary and see their commission amount earned as well.
+Users can easily manage their code and view it through graphical interface rather than command line tools.
 
-Added code for user login.
-User can select few items from the cart and can see their total.
-User is directed to payment gateway.
+Sourcetree provides many features to facilitate the software development process. It enables users to commit and push their code changes, manage branches, and view the code differences between different versions.
 
+To manage Github through Source tree:
+
+1. Install sourcetree 
+
+2.Add Github account: Goto "Accounts" menu and click "Add".select "Github"and enter your GitHub username and password to link your account.
+
+3.Clone repositories:To clone a repository from GitHub, click the "Clone" button in Sourcetree and enter the repository URL.
+
+4.Make changes: You can make changes to your code in your local repository using any code editor or IDE of your choice.
+
+5.Commit changes: In Sourcetree, select the files you want to commit and write a commit message. Click "Commit" to save your changes locally.
+
+6.Push changes: To upload your changes to GitHub, click the "Push" button in Sourcetree.
+
+7.Pull changes: If someone else has made changes to the repository, you can pull those changes to your local repository by clicking the "Pull" button in Sourcetree.
+
+8.Resolve conflicts: If there are conflicts between your changes and someone else's changes, Sourcetree will prompt you to resolve them.
+
+9.Create a pull request: Once you have pushed your changes to GitHub, you can create a pull request to have your changes reviewed and merged into the main branch.
 
